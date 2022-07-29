@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkZzPBNmdCaO3FgWySE88dnNkNgHcHL3m9wyBaHnTzzxYrU63521B4oDLEq0Q9zBmB62i1gRz0kOj11iYZ2k/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Documents\\Documentos TATA\\reporte de actividades\\NET\\Pokedex\\Pokedex\\Pokedex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\bunifu.ui.winforms\\5.3.0\\bunifu.ui.winforms.5.3.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Bunifu.UI.WinForms 5.3.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Bunifu.UI.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
